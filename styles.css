@@ -330,9 +330,6 @@ span {
   }
 }
 
-.formulario {
-}
-
 .formulario input[type="text"] {
   width: 100%;
   padding: 1rem;
@@ -346,7 +343,8 @@ span {
   text-transform: uppercase;
   letter-spacing: 1.1px;
   font-weight: 900;
-  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
 }
 .footer {
   font-size: 2rem;
